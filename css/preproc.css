@@ -496,7 +496,9 @@ a:hover {
   color: #212121;
   margin-bottom: 30px;
 }
-
+footer {
+  background: #171717;
+}
 footer .container {
   background: #171717;
   padding-top: 120px;
